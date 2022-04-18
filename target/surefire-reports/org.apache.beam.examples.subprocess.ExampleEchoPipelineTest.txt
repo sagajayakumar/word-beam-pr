@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.beam.examples.subprocess.ExampleEchoPipelineTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 5.351 s <<< FAILURE! - in org.apache.beam.examples.subprocess.ExampleEchoPipelineTest
+org.apache.beam.examples.subprocess.ExampleEchoPipelineTest.testExampleEchoPipeline  Time elapsed: 5.351 s  <<< ERROR!
+org.apache.beam.sdk.Pipeline$PipelineExecutionException: java.lang.Exception: java.io.IOException: Cannot run program "C:\Users\s542392\AppData\Local\Temp\test-Echoo10888799154355845953\test-Echo1666173255437664088.sh": CreateProcess error=193, %1 is not a valid Win32 application
+	at org.apache.beam.examples.subprocess.ExampleEchoPipelineTest.testExampleEchoPipeline(ExampleEchoPipelineTest.java:122)
+Caused by: java.lang.Exception: java.io.IOException: Cannot run program "C:\Users\s542392\AppData\Local\Temp\test-Echoo10888799154355845953\test-Echo1666173255437664088.sh": CreateProcess error=193, %1 is not a valid Win32 application
+Caused by: java.io.IOException: Cannot run program "C:\Users\s542392\AppData\Local\Temp\test-Echoo10888799154355845953\test-Echo1666173255437664088.sh": CreateProcess error=193, %1 is not a valid Win32 application
+Caused by: java.io.IOException: CreateProcess error=193, %1 is not a valid Win32 application
+

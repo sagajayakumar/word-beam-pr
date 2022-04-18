@@ -1,0 +1,18 @@
+Mar 28, 2022 10:47:18 PM org.apache.beam.examples.complete.game.UserScore$ParseEventFn processElement
+INFO: Parse error on user6_AliceBlueDingo,AliceBlueDingo,4,xxxxxxx,2015-11-19 09:53:53.444, For input string: "xxxxxxx"
+Mar 28, 2022 10:47:18 PM org.apache.beam.examples.complete.game.UserScore$ParseEventFn processElement
+INFO: Parse error on THIS IS A PARSE ERROR,2015-11-19 09:53:53.444, Index 2 out of bounds for length 2
+Mar 28, 2022 10:47:18 PM org.apache.beam.examples.complete.game.UserScore$ParseEventFn processElement
+INFO: Parse error on user6_AliceBlueDingo,AliceBlueDingo,4,xxxxxxx,2015-11-19 09:53:53.444, For input string: "xxxxxxx"
+Mar 28, 2022 10:47:18 PM org.apache.beam.examples.complete.game.UserScore$ParseEventFn processElement
+INFO: Parse error on THIS IS A PARSE ERROR,2015-11-19 09:53:53.444, Index 2 out of bounds for length 2
+Mar 28, 2022 10:47:18 PM org.apache.beam.examples.complete.game.UserScore$ParseEventFn processElement
+INFO: Parse error on user6_AliceBlueDingo,AliceBlueDingo,4,xxxxxxx,2015-11-19 09:53:53.444, For input string: "xxxxxxx"
+Mar 28, 2022 10:47:18 PM org.apache.beam.examples.complete.game.UserScore$ParseEventFn processElement
+INFO: Parse error on THIS IS A PARSE ERROR,2015-11-19 09:53:53.444, Index 2 out of bounds for length 2
+Mar 28, 2022 10:47:18 PM org.apache.beam.examples.complete.game.UserScore$ParseEventFn processElement
+INFO: Parse error on user6_AliceBlueDingo,AliceBlueDingo,4,xxxxxxx,2015-11-19 09:53:53.444, For input string: "xxxxxxx"
+Mar 28, 2022 10:47:18 PM org.apache.beam.examples.complete.game.UserScore$ParseEventFn processElement
+INFO: Parse error on THIS IS A PARSE ERROR,2015-11-19 09:53:53.444, Index 2 out of bounds for length 2
+Mar 28, 2022 10:47:18 PM org.apache.beam.examples.complete.game.UserScore$ParseEventFn processElement
+INFO: Parse error on user13_BisqueBilby,BisqueBilby,xxx,1447955630000,2015-11-19 09:53:53.444, For input string: "xxx"

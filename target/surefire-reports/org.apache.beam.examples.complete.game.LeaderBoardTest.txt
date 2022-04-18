@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.beam.examples.complete.game.LeaderBoardTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 7.313 s <<< FAILURE! - in org.apache.beam.examples.complete.game.LeaderBoardTest
+org.apache.beam.examples.complete.game.LeaderBoardTest.testUserScore  Time elapsed: 2.199 s  <<< ERROR!
+java.lang.IllegalArgumentException: PipelineOptions specified failed to serialize to JSON.
+	at org.apache.beam.examples.complete.game.LeaderBoardTest.testUserScore(LeaderBoardTest.java:379)
+Caused by: com.fasterxml.jackson.databind.JsonMappingException: Unexpected IOException (of type java.io.IOException): Failed to serialize and deserialize property 'providerRuntimeValues' with value '{}'
+	at org.apache.beam.examples.complete.game.LeaderBoardTest.testUserScore(LeaderBoardTest.java:379)
+
